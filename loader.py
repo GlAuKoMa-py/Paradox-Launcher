@@ -45,6 +45,7 @@ def register():
     print("Регистрация успешна!")
 
 def _auth():
+    os.system("cls" if os.name == "nt" else "clear")
     print(title)
     
     print("\n[1] Авторизация.")
@@ -72,6 +73,7 @@ def _auth():
 
 def start():
     while True:
+        os.system("cls" if os.name == "nt" else "clear")
         print(title)
         
         print("\n[1] Запуск игры.")

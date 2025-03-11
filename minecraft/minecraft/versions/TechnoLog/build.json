@@ -1,0 +1,57 @@
+{
+	"id": "TechnoLog",
+	"name": "TechnoLog",
+	"thumbnail": null,
+	"lastStart": 1740556437148,
+	"minecraft": {
+		"version": "1.12.2",
+		"url": "https://piston-meta.mojang.com/v1/packages/832d95b9f40699d4961394dcf6cf549e65f15dc5/1.12.2.json"
+	},
+	"loader": {
+		"type": "forge",
+		"version": null,
+		"wrapper": false,
+		"url": "https://repo.zakplay.ru/v1/forge/versions/1.12.2"
+	},
+	"connecting": {
+		"enable": false,
+		"host": "25.25.25.25",
+		"port": "22222"
+	},
+	"mods": {
+		"installed": {
+			"graphs": {
+				"mod": {
+					"nodes": {},
+					"incomingEdges": {},
+					"outgoingEdges": {}
+				},
+				"api": {
+					"nodes": {},
+					"incomingEdges": {},
+					"outgoingEdges": {}
+				},
+				"optional": {
+					"nodes": {},
+					"incomingEdges": {},
+					"outgoingEdges": {}
+				}
+			},
+			"mainGraph": {
+				"nodes": {},
+				"incomingEdges": {},
+				"outgoingEdges": {}
+			}
+		},
+		"removing": []
+	},
+	"_configVersion": 2,
+	"customArgs": {
+		"useCustomJava": false,
+		"customJavaPath": "",
+		"useCustomJavaArgs": false,
+		"customJavaArgs": "",
+		"useCustomMinecraftArgs": false,
+		"customMinecraftArgs": ""
+	}
+}
